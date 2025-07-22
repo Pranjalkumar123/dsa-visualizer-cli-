@@ -33,3 +33,4 @@ DSA_Visualizer_CLI ┣ 📄 main.cpp ┗ 📄 README.md
 **Pranjal Kumar**  
 GitHub: [Pranjalkumar123](https://github.com/Pranjalkumar123)
 
+📱 All done on phone using Cxxdroid app. No laptop used.
